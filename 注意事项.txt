@@ -1,0 +1,4 @@
+
+代码演示:在模拟机iPhone6和iPhone7还有真机小米(安卓)上
+的演示效果请在"效果展示"文件夹内查看.
+文件查看路径:pages/index/index.wxml index.js index.wxss
